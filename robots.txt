@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selaelop.github.io/infraplan-group-web/sitemap.xml
